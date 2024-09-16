@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\higor\\OneDrive\\Documentos\\GitHub\\APS-Project\\SistemaDeVendaDeIngressosIterator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02AC5A80-F474-4A3A-B326-E9DBB708E04C}|Sistema\\Sistema.csproj|c:\\users\\higor\\onedrive\\documentos\\github\\aps-project\\sistemadevendadeingressositerator\\sistema\\sistemaprograma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02AC5A80-F474-4A3A-B326-E9DBB708E04C}|Sistema\\Sistema.csproj|solutionrelative:sistema\\sistemaprograma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02AC5A80-F474-4A3A-B326-E9DBB708E04C}|Sistema\\Sistema.csproj|c:\\users\\higor\\onedrive\\documentos\\github\\aps-project\\sistemadevendadeingressositerator\\sistema\\iiteratorp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02AC5A80-F474-4A3A-B326-E9DBB708E04C}|Sistema\\Sistema.csproj|solutionrelative:sistema\\iiteratorp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02AC5A80-F474-4A3A-B326-E9DBB708E04C}|Sistema\\Sistema.csproj|c:\\users\\higor\\onedrive\\documentos\\github\\aps-project\\sistemadevendadeingressositerator\\sistema\\iaggregatep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02AC5A80-F474-4A3A-B326-E9DBB708E04C}|Sistema\\Sistema.csproj|solutionrelative:sistema\\iaggregatep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02AC5A80-F474-4A3A-B326-E9DBB708E04C}|Sistema\\Sistema.csproj|c:\\users\\higor\\onedrive\\documentos\\github\\aps-project\\sistemadevendadeingressositerator\\sistema\\modelos\\pagamentoiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02AC5A80-F474-4A3A-B326-E9DBB708E04C}|Sistema\\Sistema.csproj|solutionrelative:sistema\\modelos\\pagamentoiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02AC5A80-F474-4A3A-B326-E9DBB708E04C}|Sistema\\Sistema.csproj|c:\\users\\higor\\onedrive\\documentos\\github\\aps-project\\sistemadevendadeingressositerator\\sistema\\modelos\\pagamentos\\interfaces\\ipagamentofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02AC5A80-F474-4A3A-B326-E9DBB708E04C}|Sistema\\Sistema.csproj|solutionrelative:sistema\\modelos\\pagamentos\\interfaces\\ipagamentofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02AC5A80-F474-4A3A-B326-E9DBB708E04C}|Sistema\\Sistema.csproj|c:\\users\\higor\\onedrive\\documentos\\github\\aps-project\\sistemadevendadeingressositerator\\sistema\\modelos\\pagamentos\\fabricas\\cartaofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02AC5A80-F474-4A3A-B326-E9DBB708E04C}|Sistema\\Sistema.csproj|solutionrelative:sistema\\modelos\\pagamentos\\fabricas\\cartaofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02AC5A80-F474-4A3A-B326-E9DBB708E04C}|Sistema\\Sistema.csproj|c:\\users\\higor\\onedrive\\documentos\\github\\aps-project\\sistemadevendadeingressositerator\\sistema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02AC5A80-F474-4A3A-B326-E9DBB708E04C}|Sistema\\Sistema.csproj|solutionrelative:sistema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAggregateP.cs",
+              "DocumentMoniker": "C:\\Users\\higor\\OneDrive\\Documentos\\GitHub\\APS-Project\\SistemaDeVendaDeIngressosIterator\\Sistema\\IAggregateP.cs",
+              "RelativeDocumentMoniker": "Sistema\\IAggregateP.cs",
+              "ToolTip": "C:\\Users\\higor\\OneDrive\\Documentos\\GitHub\\APS-Project\\SistemaDeVendaDeIngressosIterator\\Sistema\\IAggregateP.cs",
+              "RelativeToolTip": "Sistema\\IAggregateP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:46:32.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IIteratorP.cs",
+              "DocumentMoniker": "C:\\Users\\higor\\OneDrive\\Documentos\\GitHub\\APS-Project\\SistemaDeVendaDeIngressosIterator\\Sistema\\IIteratorP.cs",
+              "RelativeDocumentMoniker": "Sistema\\IIteratorP.cs",
+              "ToolTip": "C:\\Users\\higor\\OneDrive\\Documentos\\GitHub\\APS-Project\\SistemaDeVendaDeIngressosIterator\\Sistema\\IIteratorP.cs",
+              "RelativeToolTip": "Sistema\\IIteratorP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:41:31.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PagamentoIterator.cs",
+              "DocumentMoniker": "C:\\Users\\higor\\OneDrive\\Documentos\\GitHub\\APS-Project\\SistemaDeVendaDeIngressosIterator\\Sistema\\Modelos\\PagamentoIterator.cs",
+              "RelativeDocumentMoniker": "Sistema\\Modelos\\PagamentoIterator.cs",
+              "ToolTip": "C:\\Users\\higor\\OneDrive\\Documentos\\GitHub\\APS-Project\\SistemaDeVendaDeIngressosIterator\\Sistema\\Modelos\\PagamentoIterator.cs",
+              "RelativeToolTip": "Sistema\\Modelos\\PagamentoIterator.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:38:06.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPagamentoFactory.cs",
+              "DocumentMoniker": "C:\\Users\\higor\\OneDrive\\Documentos\\GitHub\\APS-Project\\SistemaDeVendaDeIngressosIterator\\Sistema\\Modelos\\Pagamentos\\Interfaces\\IPagamentoFactory.cs",
+              "RelativeDocumentMoniker": "Sistema\\Modelos\\Pagamentos\\Interfaces\\IPagamentoFactory.cs",
+              "ToolTip": "C:\\Users\\higor\\OneDrive\\Documentos\\GitHub\\APS-Project\\SistemaDeVendaDeIngressosIterator\\Sistema\\Modelos\\Pagamentos\\Interfaces\\IPagamentoFactory.cs",
+              "RelativeToolTip": "Sistema\\Modelos\\Pagamentos\\Interfaces\\IPagamentoFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T16:31:09.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartaoFactory.cs",
+              "DocumentMoniker": "C:\\Users\\higor\\OneDrive\\Documentos\\GitHub\\APS-Project\\SistemaDeVendaDeIngressosIterator\\Sistema\\Modelos\\Pagamentos\\Fabricas\\CartaoFactory.cs",
+              "RelativeDocumentMoniker": "Sistema\\Modelos\\Pagamentos\\Fabricas\\CartaoFactory.cs",
+              "ToolTip": "C:\\Users\\higor\\OneDrive\\Documentos\\GitHub\\APS-Project\\SistemaDeVendaDeIngressosIterator\\Sistema\\Modelos\\Pagamentos\\Fabricas\\CartaoFactory.cs",
+              "RelativeToolTip": "Sistema\\Modelos\\Pagamentos\\Fabricas\\CartaoFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T16:30:35.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\higor\\OneDrive\\Documentos\\GitHub\\APS-Project\\SistemaDeVendaDeIngressosIterator\\Sistema\\Program.cs",
+              "RelativeDocumentMoniker": "Sistema\\Program.cs",
+              "ToolTip": "C:\\Users\\higor\\OneDrive\\Documentos\\GitHub\\APS-Project\\SistemaDeVendaDeIngressosIterator\\Sistema\\Program.cs",
+              "RelativeToolTip": "Sistema\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:55:54.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SistemaPrograma.cs",
+              "DocumentMoniker": "C:\\Users\\higor\\OneDrive\\Documentos\\GitHub\\APS-Project\\SistemaDeVendaDeIngressosIterator\\Sistema\\SistemaPrograma.cs",
+              "RelativeDocumentMoniker": "Sistema\\SistemaPrograma.cs",
+              "ToolTip": "C:\\Users\\higor\\OneDrive\\Documentos\\GitHub\\APS-Project\\SistemaDeVendaDeIngressosIterator\\Sistema\\SistemaPrograma.cs",
+              "RelativeToolTip": "Sistema\\SistemaPrograma.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:48:38.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
